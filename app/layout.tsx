@@ -3,6 +3,12 @@ import { Inter } from 'next/font/google'
 import { ThemeProvider } from 'next-themes'
 import { AuthProvider } from '@/contexts/AuthContext'
 
+// Remove unused imports
+// import Link from 'next/link'
+// import ThemeToggle from '@/components/theme-toggle'
+// import LogoutButton from '@/components/logout-button'
+// import LanguageSwitch from '@/components/language-switch'
+
 const inter = Inter({ subsets: ['latin'] })
 
 export default function RootLayout({
