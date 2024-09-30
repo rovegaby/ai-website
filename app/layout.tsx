@@ -1,10 +1,6 @@
 import './globals.css'
 import { Inter } from 'next/font/google'
-import Link from 'next/link'
 import { ThemeProvider } from 'next-themes'
-import ThemeToggle from '@/components/ThemeToggle'
-import LogoutButton from '@/components/LogoutButton'
-import LanguageSwitch from '@/components/LanguageSwitch'
 import { AuthProvider } from '@/contexts/AuthContext'
 
 const inter = Inter({ subsets: ['latin'] })
