@@ -1,0 +1,23 @@
+{
+  "nav": {
+    "home": "Home",
+    "aiChat": "AI Chat",
+    "footer": "© 2024 – Powered by"
+  },
+  "home": {
+    "title": "Welcome to AI Assistant",
+    "description": "Explore the infinite possibilities of AI, enhance your work efficiency and creativity.",
+    "startChat": "Start Chat",
+    "loginAndStartChat": "Login and Start Chat"
+  },
+  "aiChat": {
+    "title": "AI Intelligent Assistant"
+  },
+  "login": {
+    "title": "Login",
+    "username": "Username",
+    "password": "Password",
+    "loginButton": "Login",
+    "incorrectCredentials": "Incorrect username or password"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "nav": {
+    "home": "首页",
+    "aiChat": "AI 聊天",
+    "footer": "© 2024 – 由以下提供支持"
+  },
+  "home": {
+    "title": "欢迎来到AI助手",
+    "description": "探索AI的无限可能，提升您的工作效率和创造力。",
+    "startChat": "开始对话",
+    "loginAndStartChat": "登录并开始对话"
+  },
+  "aiChat": {
+    "title": "AI 智能助手"
+  },
+  "login": {
+    "title": "登录",
+    "username": "用户名",
+    "password": "密码",
+    "loginButton": "登录",
+    "incorrectCredentials": "用户名或密码不正确"
+  }
+}
