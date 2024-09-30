@@ -6,7 +6,7 @@ import ShimmerButton from '@/components/ui/shimmer-button';
 import { useAuth } from '@/contexts/AuthContext';
 
 const CORRECT_USERNAME = 'root';
-const CORRECT_PASSWORD = 'root123';
+const CORRECT_PASSWORD = 'root';
 
 export default function LoginPage() {
   const [username, setUsername] = useState('');
