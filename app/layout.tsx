@@ -2,7 +2,6 @@ import './globals.css'
 import { Inter } from 'next/font/google'
 import { ThemeProvider } from 'next-themes'
 import { AuthProvider } from '@/contexts/AuthContext'
-import LogoutButton from '@/components/LogoutButton'
 import { NextIntlClientProvider } from 'next-intl'
 
 // Remove unused imports
