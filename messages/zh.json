@@ -19,5 +19,10 @@
     "password": "密码",
     "loginButton": "登录",
     "incorrectCredentials": "用户名或密码不正确"
+  },
+  "logout": "登出",
+  "Common": {
+    "logout": "登出",
+    "login": "登录"
   }
 }

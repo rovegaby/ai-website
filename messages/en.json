@@ -19,5 +19,10 @@
     "password": "Password",
     "loginButton": "Login",
     "incorrectCredentials": "Incorrect username or password"
+  },
+  "logout": "Logout",
+  "Common": {
+    "logout": "Logout",
+    "login": "Login"
   }
 }
